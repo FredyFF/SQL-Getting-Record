@@ -10,6 +10,7 @@ This material uses the example of the Northwind database, To get records in SQL,
 ### Tools
 - SQL Server 2019
 - Northwind.BAK Database
+- GirlFlower.bak
 
 
 
